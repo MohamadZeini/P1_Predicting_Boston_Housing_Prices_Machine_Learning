@@ -1,6 +1,7 @@
-# Machine Learning Engineer Nanodegree
-# Model Evaluation and Validation
-## Project: Predicting Boston Housing Prices
+# Project: Predicting Boston Housing Prices
+## Machine Learning Model Evaluation and Validation
+
+To see the project refer to boston_housing.ipynb file.
 
 ### Install
 
