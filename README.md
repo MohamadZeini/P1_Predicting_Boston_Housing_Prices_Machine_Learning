@@ -1,7 +1,10 @@
 # Project: Predicting Boston Housing Prices
 ## Machine Learning Model Evaluation and Validation
 
-To see the project refer to boston_housing.ipynb file.
+To see the project refer to `boston_housing.ipynb file`.
+### Overview
+
+The Boston housing market is highly competitive, and we want to leverage machine learning concepts to build an optimal model to assist us and clients with finding the best selling price for their home. Boston Housing dataset which contains aggregated data on various features for houses in Greater Boston communities, including the median value of homes for each of those areas. 
 
 ### Install
 
